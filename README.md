@@ -5,7 +5,7 @@ Basically this Device is Alerting device that is ,when the device is manually tr
 
 
 #######################
-# Components Required #
+ Components Required 
 #######################
 
 1.Arduino Uno/Arduino Nano
@@ -39,15 +39,15 @@ Also Update the code with your Phone Numbers
 | Working and Functionalites |
 ------------------------------
 
-# For every One Minute the current location will be Updated on ThinkSpeak
-# While Updation the LED will glow,at this time no other function will be engaged
-# When the device is idle ,and the push button is pushed once, a text message with location details will be passed to the associated phone number
-# While message pass the LED will Blink Twice and thinkSpeak updation will disengaged and will be ready to perform next operation
-# After pressing the Button twice the LED with start to beat for 40 time on Series at 1 second of interval ,at this time continuous calls will be done to that associated number
-# Press and hold the button just when the LED stops beating to disengaged from call functions
-# When Disengaged the LED will be turned ON while updating the location in Thinkspeak
-# If the button is pressed again it immediately jumps to calling function
-# Repeat the previous step to disengage the function
+$ For every One Minute the current location will be Updated on ThinkSpeak
+$ While Updation the LED will glow,at this time no other function will be engaged
+$ When the device is idle ,and the push button is pushed once, a text message with location details will be passed to the associated phone number
+$ While message pass the LED will Blink Twice and thinkSpeak updation will disengaged and will be ready to perform next operation
+$ After pressing the Button twice the LED with start to beat for 40 time on Series at 1 second of interval ,at this time continuous calls will be done to that associated number
+$ Press and hold the button just when the LED stops beating to disengaged from call functions
+$ When Disengaged the LED will be turned ON while updating the location in Thinkspeak
+$ If the button is pressed again it immediately jumps to calling function
+$ Repeat the previous step to disengage the function
 
 
 Hope You Like it ! Thank You
